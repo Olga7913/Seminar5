@@ -1,0 +1,15 @@
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.csproj.AssemblyReference.cache
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.AssemblyInfoInputs.cache
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.AssemblyInfo.cs
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\bin\Debug\net6.0\Task43.exe
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\bin\Debug\net6.0\Task43.deps.json
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\bin\Debug\net6.0\Task43.runtimeconfig.json
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\bin\Debug\net6.0\Task43.dll
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\bin\Debug\net6.0\Task43.pdb
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.dll
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\refint\Task43.dll
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.pdb
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\Task43.genruntimeconfig.cache
+D:\Обучение\Git\HW_13.08.20222\HW\Task43\obj\Debug\net6.0\ref\Task43.dll
